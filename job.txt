@@ -1,0 +1,16 @@
+Project Role : Custom Software Engineer
+Project Role Description :Project Role : Custom Software Engineer
+Project Role Description : Design, build and configure applications to meet business process and application requirements.
+Must have skills : Configuration & Release Management
+Good to have skills : NA
+Minimum 0-2 year(s) of experience is required
+Educational Qualification : 15 years full time education
+
+Summary: As a Custom Software Engineer, you will engage in the design, construction, and configuration of applications tailored to fulfill specific business processes and application requirements. Your typical day will involve collaborating with team members to understand project needs, developing solutions, and ensuring that applications are effectively aligned with organizational goals. You will also participate in discussions to address challenges and enhance the overall functionality of the applications you work on. Roles & Responsibilities: - Expected to build knowledge and support the team. - Participate in Problem Solving discussions. - Assist in the documentation of application requirements and design specifications. - Collaborate with cross-functional teams to ensure seamless integration of applications. Professional & Technical Skills: - Must To Have Skills: Proficiency in Configuration & Release Management. - Experience with version control systems such as Git or Subversion. - Familiarity with continuous integration and continuous deployment practices. - Understanding of application lifecycle management processes. - Knowledge of scripting languages for automation tasks. Additional Information: - The candidate should have minimum 0-2 years of experience in Configuration & Release Management. - This position is based at our Bengaluru office. - A 15 years full time education is required.
+Management Level : 12
+Work Experience : >=12 Months
+Work location : Bengaluru
+Must Have Skills : Configuration & Release Management
+Good To Have Skills :
+Job Requirements :
+15 years full time education
