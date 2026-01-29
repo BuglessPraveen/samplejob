@@ -15,3 +15,12 @@ Good To Have Skills :AWS
 Job Requirements :
 
 15 years full time education
+
+🔥 NEXT 3 DAYS (NON-NEGOTIABLE)
+
+Jenkins pipeline
+
+One failure + fix
+
+Release + rollback explanation
+
